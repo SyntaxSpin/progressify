@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Progressify/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 69,
+          "index": 845,
+          "line": 44
+        },
+        "start": {
+          "column": 69,
+          "index": 845,
+          "line": 44
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Progressify/app/build.gradle"
+}
