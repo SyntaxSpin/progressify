@@ -9,3 +9,15 @@
 
 </div>
 A tutorial for beginners how to implement Material Expressive progress Indicator in XML and Java
+
+# Features 
+- Uses Material 3 Expressive UI
+- Full Customized Styling of Your progress Indicator
+- Uses Latest Version Material 1.14.0-alpha02
+
+# Download 
+Download Currently Unavailable but You can build Your Version using ```./gradlew assembleDebug ```
+# Special Thanks to 
+- Material.io
+- Lucide.dev for github icon
+- Gilroy font
